@@ -1,16 +1,5 @@
 
-            ),
-            Container(
-              width: 300,
-              height: 45,
-              color: Colors.blue,
-            ),
-          ],
-        ),
-      ),
-    );
-  }
-}
+           
 import 'package:flutter/material.dart';
 
 void main() {
@@ -47,5 +36,16 @@ class TestApp extends StatelessWidget {
               width: 300,
               height: 45,
               color: Colors.red,
-
+),
+            Container(
+              width: 300,
+              height: 45,
+              color: Colors.blue,
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
               
